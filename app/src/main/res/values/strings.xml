@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FacialExpressions</string>
+    <string name="question">Can you choose the emotion in the photo from the options below?</string>
+    <string name="points">Points:</string>
+    <string name="highestScore">Highest Score:</string>
+    <string name="takenTime">Time Taken:</string>
+</resources>
